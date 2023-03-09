@@ -1,0 +1,27 @@
+.header {
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.main {
+    background-color: cyan;
+    color: azure;
+    border: 1px solid black;
+    padding: 5px;
+    height: 500px;
+}
+
+.footer {
+    background-color: darkgray;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+a {
+    color: rgb(255, 51, 0);
+}
+
+p {
+    color: black;
+}
